@@ -90,6 +90,7 @@ namespace Lab3_HTandDict
             {
                 MessageBox.Show("Hashtable is Empty");
             }
+            janki;
         }
 
         private void btnDictAdd_Click(object sender, EventArgs e)
